@@ -6,6 +6,7 @@ MSSV: 1612427
 
 Bài tập: IA02 - Web dịch Pháp-Việt
 
+
   Sinh viên sử dụng 2 api trong IA01
   
   👉 api dịch Pháp - Anh
@@ -15,19 +16,19 @@ Bài tập: IA02 - Web dịch Pháp-Việt
   để xây dựng ứng dụng Web hỗ trợ dịch Pháp - Việt.
 
   👉 Cách chạy phần mềm:
-  Khi ta đang đứng ở thư mục `1612427-IA01`
+  Khi ta đang đứng ở thư mục `IA02-Web-Dich-Phap_Viet`
   
   
     1. Run 2 API:
     
-      a. Pháp - Anh: `cd ./Phap-Anh`, `npm i`, `npm start`
+      a. Pháp - Anh: cd ./Phap-Anh, npm i, npm start
       
-      b. Anh - Việt: `cd ./Anh-Viet`, `npm i`, `npm start`
+      b. Anh - Việt: cd ./Anh-Viet, npm i, npm start
       
       
     2. Run FrontEnd Pháp - Việt:
     
-      `cd ./Phap-Viet_Front-end`, `npm i`, `npm start`
+      cd ./Phap-Viet_Front-end, npm i, npm start
       
       
     3. Mở trình duyệt với đường dẫn sau: http://localhost:8080/ và sử dụng
@@ -47,5 +48,4 @@ Bài tập: IA02 - Web dịch Pháp-Việt
       - Nếu tìm được thì cộng dồn kết quả và xuất ra, nếu không thì hiển thị `chưa rõ` kèm với kết quả Tiếng Anh ở API Pháp - Anh.
 
 
-* Truy cập link git sau để tham khảo các hình ảnh chính của app.
-  https://github.com/XuanNghiemNguyen/IA02-Web-Dich-Phap_Viet
+* Truy cập link git sau để tham khảo các hình ảnh chính của app: https://github.com/XuanNghiemNguyen/IA02-Web-Dich-Phap_Viet
